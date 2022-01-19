@@ -1,0 +1,54 @@
+body {
+	color: #555;
+	background: #bbb;
+}
+md-content {
+	max-width: 650px;
+}
+md-card {
+	background: #fff;
+	min-width: 280px;
+}
+md-button.md-primary {
+	color: #fff;
+	background-color: #03a9f4;
+}
+md-whiteframe > md-button {
+	margin: 0 5px;
+}
+label {
+	min-width: 62px;
+}
+.md-subheader,
+.doser-output {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+.doser-output {
+	width: 80px;
+	text-align: right;
+}
+.doser-input label {
+	font-size: 1em;
+	font-weight: bold;
+	background: #4285f4;
+	color: #fff;
+	padding: 4px 6px;
+	border-radius: 5px;
+}
+.doser-input input {
+	text-align: right;
+	width: 75px;
+	padding-right: 20px;
+}
+.input-label {
+	font-size: .8em;
+	margin: 4px;
+}
+input.long {
+	width: 264px;
+}
+input.short {
+	max-width: 75px;
+	padding: 2px 3px;
+}
